@@ -1,0 +1,11 @@
+# .NET Framework and Runtime
+.NET SDK 8.0 (https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+
+# MySQL Server
+MySQL Community Server (https://dev.mysql.com/downloads/mysql/)
+
+# NuGet Packages
+MySql.Data (version 8.0.31)
+
+# Tools
+Visual Studio (Community Edition or higher, optional)
